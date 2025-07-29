@@ -513,6 +513,7 @@ body {
   display: inline-block;
   text-align: center;
   text-decoration: none;
+  border: none;
 }
 
 .special-offer-info .btn-shop {

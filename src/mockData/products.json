@@ -13,7 +13,6 @@
       "longDescription": "The Meowmix Chicken Meal is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
       "quantity": 1,
       "featured": false,
-      "hotest": true,
       "thumbnailImage": "images/product_1.png",
       "gallery": [
         "images/product_1.png",
@@ -110,6 +109,7 @@
       },
       "review": 3.9,
       "id": "102",
+      "hotest": true,
       "shortDescription": "High-quality cat product: FeatherSwirl Toy Set.",
       "longDescription": "The FeatherSwirl Toy Set is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
       "quantity": 1,
@@ -198,7 +198,7 @@
       "type": "Bed",
       "price": {
         "regular": 1218.99,
-        "sale": 1462.49
+        "sale": 1162.49
       }
     },
     {
@@ -248,7 +248,7 @@
       },
       "price": {
         "regular": 1066.99,
-        "sale": 1927.49
+        "sale": 927.49
       }
     },
     {
@@ -398,7 +398,7 @@
       },
       "price": {
         "regular": 622.99,
-        "sale": 1012.49
+        "sale": 312.49
       }
     },
     {
@@ -448,7 +448,7 @@
       },
       "price": {
         "regular": 2563.99,
-        "sale": 291.49
+        "sale": 2291.49
       }
     },
     {
@@ -699,7 +699,7 @@
       },
       "price": {
         "regular": 514.99,
-        "sale": 628.49
+        "sale": 428.49
       }
     },
     {
@@ -949,8 +949,8 @@
         ]
       },
       "price": {
-        "regular": 86.99,
-        "sale": 1437.49
+        "regular": 486.99,
+        "sale": 237.49
       }
     },
     {
@@ -1000,7 +1000,7 @@
       },
       "price": {
         "regular": 1172.99,
-        "sale": 1423.49
+        "sale": 1123.49
       }
     },
     {
@@ -1049,8 +1049,8 @@
         ]
       },
       "price": {
-        "regular": 1172.99,
-        "sale": 1423.49
+        "regular": 1372.99,
+        "sale": 1223.49
       }
     },
     {
@@ -1101,7 +1101,7 @@
       },
       "price": {
         "regular": 1172.99,
-        "sale": 1423.49
+        "sale": 823.49
       }
     }
   ]
