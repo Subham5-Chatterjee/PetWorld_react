@@ -27,8 +27,8 @@ export default function Bestselling() {
         spaceBetween={20}
         slidesPerView={1.2}
         slidesPerGroup={1}
-        //pagination={{ clickable: true }}
-        //modules={[Pagination]}
+        pagination={{ clickable: true }}
+        modules={[Pagination]}
         breakpoints={{
           320: {
             slidesPerView: 1.2,
@@ -36,23 +36,24 @@ export default function Bestselling() {
             pagination: false,
           },
           576: {
-            slidesPerView: 2.2,
+            slidesPerView: 2,
             slidesPerGroup: 3,
             spaceBetween: 20,
+            pagination: false,
           },
           768: {
-            slidesPerView: 3.2,
+            slidesPerView: 3,
             slidesPerGroup: 3,
             spaceBetween: 20,
           },
           992: {
-            slidesPerView: 4.3,
-            slidesPerGroup: 3,
+            slidesPerView: 4,
+            slidesPerGroup: 5,
             spaceBetween: 15,
           },
           1200: {
-            slidesPerView: 5.2,
-            slidesPerGroup: 3,
+            slidesPerView: 5,
+            slidesPerGroup: 5,
             spaceBetween: 15,
           },
         }}
