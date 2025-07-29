@@ -356,8 +356,9 @@ body {
 }
 
 .product_btn {
-  max-width: 27rem;
+  max-width: 32rem;
   width: 100%;
+  margin: 0 auto;
 }
 
 .offerSec_two {
