@@ -23,12 +23,12 @@ export default function Bestselling() {
       <Swiper
         className="container"
         autoplay={true}
-        loop={true}
+        //loop={true}
         spaceBetween={20}
         slidesPerView={1.2}
         slidesPerGroup={1}
-        pagination={{ clickable: true }}
-        modules={[Pagination]}
+        //pagination={{ clickable: true }}
+        //modules={[Pagination]}
         breakpoints={{
           320: {
             slidesPerView: 1.2,
@@ -36,24 +36,24 @@ export default function Bestselling() {
             pagination: false,
           },
           576: {
-            slidesPerView: 2,
+            slidesPerView: 2.2,
             slidesPerGroup: 3,
             spaceBetween: 20,
           },
           768: {
-            slidesPerView: 3,
+            slidesPerView: 3.2,
             slidesPerGroup: 3,
             spaceBetween: 20,
           },
           992: {
-            slidesPerView: 4,
-            slidesPerGroup: 4,
-            spaceBetween: 20,
+            slidesPerView: 4.3,
+            slidesPerGroup: 3,
+            spaceBetween: 15,
           },
           1200: {
-            slidesPerView: 5,
-            slidesPerGroup: 5,
-            spaceBetween: 20,
+            slidesPerView: 5.2,
+            slidesPerGroup: 3,
+            spaceBetween: 15,
           },
         }}
       >

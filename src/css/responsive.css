@@ -143,8 +143,11 @@
   .product_details .btn-wrapper {
     width: 53%;
   }
-  .best-selling-product .swiper {
+  .offerSec_one {
     padding-bottom: 4rem;
+  }
+  .best-selling-product .swiper {
+    padding-bottom: 2rem;
   }
 }
 
@@ -286,6 +289,12 @@
   }
   .product-list-grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+  .offerSec_two {
+    padding-top: 3rem;
+  }
+  .best-selling-product .swiper {
+    padding-bottom: 1rem;
   }
 }
 
