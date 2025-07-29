@@ -9,7 +9,7 @@ const MainLayout = () => {
     <>
       <Tophead />
       <Menu />
-      <main className="main-content">
+      <main className="main-content container_new">
         <Outlet />
       </main>
       <Sitefooter />
