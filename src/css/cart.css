@@ -1,0 +1,150 @@
+.cart_details p {
+    font-size: 1.6rem;
+}
+
+.cart_details th {
+    font-size: 1.7rem;
+}
+
+.cart_details h5 {
+    font-size: 2rem;
+}
+
+.cart-total-box span {
+    font-size: 1.8rem;
+}
+
+.card span {
+    font-size: 1.8rem;
+}
+
+.quantity-selector {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    width: 160px;
+}
+
+.quantity-selector button {
+    width: 4.4rem;
+    height: 4.4rem;
+    border: none;
+    background-color: transparent;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quantity-selector .btn-minus {
+    border-right: 1px solid #ccc;
+}
+
+.quantity-selector .btn-plus {
+    border-left: 1px solid #ccc;
+}
+
+.quantity-selector .btn-plus {
+    /*background-color: #3b4ffe;*/
+    color: #000;
+}
+
+.text-muted.strike {
+    text-decoration: line-through;
+}
+
+.quantity-selector input {
+    width: 7rem;
+    text-align: center;
+    border: none;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.quantity-selector input:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.cart-item {
+    border-bottom: 1px solid #eee;
+    padding: 1.5rem 0;
+}
+
+.cart-total-box {
+    border: 1px solid #0000002d;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.cart-total-box .btn {
+    width: 100%;
+}
+
+.cart_image {
+    width: 6.5rem;
+    /*width: 100%;*/
+}
+
+.cart_product_info {
+    width: 25rem;
+}
+
+.delete-btn {
+    font-size: 2.5rem;
+}
+
+.card td p {
+    display: inline-block;
+}
+
+.btn-return {
+    font-size: 1.4rem;
+    color: #142535;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 2.4rem;
+    padding: 5px 15px;
+    border: 2px solid #142535;
+}
+
+.btn-updatecart {
+    font-size: 1.4rem;
+    color: #ffffff;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    line-height: 1;
+    background-color: #142535;
+    padding: 5px 15px;
+}
+
+.btn-checkout {
+    font-size: 1.8rem;
+    color: #ffffff;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    line-height: 1;
+    background-color: #142535;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .cart-total-box {
+        margin-top: 3rem;
+    }
+
+    .cart_product_info {
+        width: 15rem;
+
+    }
+}

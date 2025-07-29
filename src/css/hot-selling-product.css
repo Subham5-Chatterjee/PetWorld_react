@@ -1,0 +1,86 @@
+.hot-selling-product .single-product, .best-selling-product .single-product{
+    max-width: 33rem;
+    width: 100%;
+    padding: 2rem;
+    border-radius: 1.6rem;
+    background: #ffffff;
+}
+.single-product img{
+    border-radius: 3rem;
+}
+.product-details h6 {
+    font-size: 2.2rem;
+    line-height: 2.6rem;
+    margin: 1.5rem 0px;
+    font-family: "Fahkwang", sans-serif;
+}
+
+.cus-container {
+    max-width: 1440px;
+    column-gap: 35px;
+}
+
+.product-revew {
+    margin-bottom: 0.5rem;
+}
+
+.product-revew span {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.product-revew .fa-star {
+    font-size: 1.6rem;
+    color: #F5C730
+}
+
+.hot-selling-product {
+    padding-bottom: 5rem;
+}
+
+.hot-selling-product .price, .best-selling-product .price{
+    padding-top: 1.2rem;
+}
+
+.hot-selling-product .price span, .best-selling-product .price span {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    color: #142535;
+    font-family: "Fahkwang", sans-serif;
+    margin-bottom: 1.5rem;
+}
+.hot-selling-product .price .regular-price, .best-selling-product .price .regular-price{
+    color: #878484;
+    margin-left: .5rem;
+    text-decoration: line-through;
+}
+
+.product_btn a,
+.product_btn button {
+    padding: 1.4rem 0rem;
+    font-size: 2rem;
+    width: 100%;
+    background: #142535;
+    color: #ffffff;
+    border-radius: 4rem;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 18px;
+    margin-top: 1.5rem;
+    font-weight: 600;
+}
+
+.product_btn .offerSec_two {
+    padding: 1.5rem 0rem;
+}
+
+.product-details {
+    width: 100%;
+    padding: 0px 1.6rem;
+}
+
+.product_btn {
+    max-width: 27rem;
+    width: 100%;
+}

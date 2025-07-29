@@ -1,0 +1,1108 @@
+{
+  "products": [
+    {
+      "title": "Meowmix Chicken Meal",
+      "category": {
+        "name": "Cat",
+        "slug": "cat",
+        "thumbnail": "images/category-02.png"
+      },
+      "review": 4.5,
+      "id": "100",
+      "shortDescription": "High-quality cat product: Meowmix Chicken Meal.",
+      "longDescription": "The Meowmix Chicken Meal is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "hotest": true,
+      "thumbnailImage": "images/product_1.png",
+      "gallery": [
+        "images/product_1.png",
+        "images/product_1.png",
+        "images/product_1.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "stock": "In Stock",
+      "type": "Food",
+      "price": {
+        "regular": 2914.99,
+        "sale": 791.49
+      }
+    },
+    {
+      "title": "Striped Sunflower Seeds",
+      "category": {
+        "name": "Bird",
+        "slug": "bird",
+        "thumbnail": "images/category-04.png"
+      },
+      "review": 2.1,
+      "id": "101",
+      "shortDescription": "High-quality bird product: Striped Sunflower Seeds",
+      "longDescription": "Striped Sunflower Seeds- 1 Kg for Lovebirds, Cockatiels, Sun Conure, African Grey Parrot, Macaws, Cockatoos",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_2.png",
+      "gallery": [
+        "images/product_2.png",
+        "images/product_2.png",
+        "images/product_2.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "stock": "In Stock",
+      "type": "Food",
+      "price": {
+        "regular": 2233.99,
+        "sale": 653.49
+      }
+    },
+    {
+      "title": "FeatherSwirl Toy Set",
+      "category": {
+        "name": "Cat",
+        "slug": "cat",
+        "thumbnail": "images/category-02.png"
+      },
+      "review": 3.9,
+      "id": "102",
+      "shortDescription": "High-quality cat product: FeatherSwirl Toy Set.",
+      "longDescription": "The FeatherSwirl Toy Set is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_3.png",
+      "gallery": [
+        "images/product_3.png",
+        "images/product_3.png",
+        "images/product_3.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "stock": "Low Stock",
+      "type": "Toy",
+      "price": {
+        "regular": 2050.99,
+        "sale": 762.49
+      }
+    },
+    {
+      "title": "Blissful Products Yellow Millet",
+      "category": {
+        "name": "Bird",
+        "slug": "bird",
+        "thumbnail": "images/category-04.png"
+      },
+      "review": 4.2,
+      "id": "103",
+      "shortDescription": "High-quality bird product: Blissful Products Yellow Millet",
+      "longDescription": "The Blissful Products Yellow Millet is a trusted choice among bird owners. dry seeds for birds which is very healthy for birds. You can give it to the birds after mix it or can give differently. It helps the birds grow faster and keeps good health.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_4.png",
+      "gallery": [
+        "images/product_4.png",
+        "images/product_4.png",
+        "images/product_4.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "stock": "Out of Stock",
+      "type": "Bed",
+      "price": {
+        "regular": 1218.99,
+        "sale": 1462.49
+      }
+    },
+    {
+      "title": "Variety Fish Food",
+      "category": {
+        "name": "Fish",
+        "slug": "fish",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 4.1,
+      "id": "104",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Variety Fish Food.",
+      "longDescription": "The Variety Fish Food is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_5.png",
+      "gallery": [
+        "images/product_5.png",
+        "images/product_5.png",
+        "images/product_5.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1066.99,
+        "sale": 1927.49
+      }
+    },
+    {
+      "title": "Royal Wings For Bird",
+      "category": {
+        "name": "Bird",
+        "slug": "bird",
+        "thumbnail": "images/category-06.png"
+      },
+      "review": 4.3,
+      "id": "105",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality bird product: Royal Wings For Bird",
+      "longDescription": "The Royal Wings For Bird is a trusted choice among bird owners. Dry seeds for birds which is very healthy for birds. You can give it to the birds after mix it or can give differently. It helps the birds grow faster and keeps good health.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_6.png",
+      "gallery": [
+        "images/product_6.png",
+        "images/product_6.png",
+        "images/product_6.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 2729.99,
+        "sale": 1017.49
+      }
+    },
+    {
+      "title": "Benebone Dog Treats",
+      "category": {
+        "name": "Dog",
+        "slug": "dog",
+        "thumbnail": "images/category-01.png"
+      },
+      "review": 4.6,
+      "id": "106",
+      "shortDescription": "High-quality dog product: Benebone Dog Treats",
+      "longDescription": "The Benebone Dog Treats is a trusted choice among dog owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_11.png",
+      "gallery": [
+        "images/product_11.png",
+        "images/product_11.png",
+        "images/product_11.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "stock": "In Stock",
+      "type": "Food",
+      "price": {
+        "regular": 1568.99,
+        "sale": 1161.49
+      }
+    },
+    {
+      "title": "Hamster Dry Bath Rollon",
+      "category": {
+        "name": "Hamster",
+        "slug": "hamster",
+        "thumbnail": "images/category-06.png"
+      },
+      "review": 4.3,
+      "id": "107",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality hamster product: Hamster Dry Bath Rollon",
+      "longDescription": "The Hamster Dry Bath Rollon is a trusted choice among hamster owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_8.png",
+      "gallery": [
+        "images/product_8.png",
+        "images/product_8.png",
+        "images/product_8.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 622.99,
+        "sale": 1012.49
+      }
+    },
+    {
+      "title": "Tunai Rabbit Food Pellets",
+      "category": {
+        "name": "Rabbit",
+        "slug": "rabbit",
+        "thumbnail": "images/category-05.png"
+      },
+      "review": 4.8,
+      "id": "108",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality rabbit product: Tunai Rabbit Food Pellets",
+      "longDescription": "The Tunai Rabbit Food Pellets is a trusted choice among rabbit owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_9.png",
+      "gallery": [
+        "images/product_9.png",
+        "images/product_9.png",
+        "images/product_9.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 2563.99,
+        "sale": 291.49
+      }
+    },
+    {
+      "title": "Hamster Dry Food Pallets",
+      "category": {
+        "name": "Hamster",
+        "slug": "hamster",
+        "thumbnail": "images/category-6.png"
+      },
+      "review": 4.1,
+      "id": "109",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality hamster product: Hamster Dry Food Pallets",
+      "longDescription": "The Hamster Dry Food Pallets is a trusted choice among hamster owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_19.png",
+      "gallery": [
+        "images/product_19.png",
+        "images/product_19.png",
+        "images/product_19.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1331.49,
+        "sale": 1098.99
+      }
+    },
+    {
+      "title": "Jambokrill Fish Shrimp",
+      "category": {
+        "name": "Fish",
+        "slug": "fish",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 4.4,
+      "id": "110",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Jambokrill Fish Shrimp.",
+      "longDescription": "The Jambokrill Fish Shrimp is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_20.png",
+      "gallery": [
+        "images/product_20.png",
+        "images/product_20.png",
+        "images/product_20.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1592.99,
+        "sale": 1248.49
+      }
+    },
+    {
+      "title": "WheelSpin Cat Home",
+      "category": {
+        "name": "Cat",
+        "slug": "cat",
+        "thumbnail": "images/category-02.png"
+      },
+      "review": 4.8,
+      "id": "111",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality cat product: WheelSpin Cat Home.",
+      "longDescription": "The WheelSpin Cat Home is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_10.png",
+      "gallery": [
+        "images/product_10.png",
+        "images/product_10.png",
+        "images/product_10.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1678.99,
+        "sale": 1408.49
+      }
+    },
+    {
+      "title": "Tetra Goldfish Mix",
+      "category": {
+        "name": "Fish",
+        "slug": "fish",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 4.6,
+      "id": "112",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Tetra Goldfish Mix",
+      "longDescription": "The Tetra Goldfish Mix is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_22.png",
+      "gallery": [
+        "images/product_22.png",
+        "images/product_22.png",
+        "images/product_22.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 2862.99,
+        "sale": 1126.49
+      }
+    },
+    {
+      "title": "Rio Healthy Bird Food",
+      "category": {
+        "name": "Bird",
+        "slug": "bird",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 4.5,
+      "id": "113",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality bird product: Rio Healthy Bird Food",
+      "longDescription": "The Rio Healthy Bird Food is a trusted choice among bird owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "hotest": true,
+      "thumbnailImage": "images/product_12.png",
+      "gallery": [
+        "images/product_12.png",
+        "images/product_12.png",
+        "images/product_12.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 514.99,
+        "sale": 628.49
+      }
+    },
+    {
+      "title": "Rabbit House Set",
+      "category": {
+        "name": "Rabbit",
+        "slug": "rabbit",
+        "thumbnail": "images/category-05.png"
+      },
+      "review": 4.7,
+      "id": "114",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality rabbit product: Rabbit House Set",
+      "longDescription": "The Rabbit House Set is a trusted choice among rabbit owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_21.png",
+      "gallery": [
+        "images/product_21.png",
+        "images/product_21.png",
+        "images/product_21.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 2741.49,
+        "sale": 1925.99
+      }
+    },
+    {
+      "title": "Sheba fish Food",
+      "category": {
+        "name": "Cat",
+        "slug": "cat",
+        "thumbnail": "images/category-02.png"
+      },
+      "review": 4.4,
+      "id": "115",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality cat product: Sheba fish Food.",
+      "longDescription": "The Sheba fish Food is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "hotest": true,
+      "thumbnailImage": "images/product_13.png",
+      "gallery": [
+        "images/product_13.png",
+        "images/product_13.png",
+        "images/product_13.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1429.49,
+        "sale": 843.99
+      }
+    },
+    {
+      "title": "Seetastik 8L Fish Bowl",
+      "category": {
+        "name": "Fish",
+        "slug": "fish",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 4.3,
+      "id": "116",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Seetastik 8L Fish Bowl",
+      "longDescription": "The Seetastik 8L Fish Bowl is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": true,
+      "thumbnailImage": "images/product_23.png",
+      "gallery": [
+        "images/product_23.png",
+        "images/product_23.png",
+        "images/product_23.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 2090.99,
+        "sale": 856.49
+      }
+    },
+    {
+      "title": "NibbleMaze Play Tunnel",
+      "category": {
+        "name": "Cat",
+        "slug": "cat",
+        "thumbnail": "images/category-02.png"
+      },
+      "review": 4.5,
+      "id": "117",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality cat product: NibbleMaze Play Tunnel.",
+      "longDescription": "The NibbleMaze Play Tunnel is a trusted choice among cat owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_18.png",
+      "gallery": [
+        "images/product_18.png",
+        "images/product_18.png",
+        "images/product_18.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1777.99,
+        "sale": 1560.49
+      }
+    },
+    {
+      "title": "Rubber Ball Dog Toy",
+      "category": {
+        "name": "Dog",
+        "slug": "dog",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 4.3,
+      "id": "118",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Rubber Ball Dog Toy",
+      "longDescription": "The Rubber Ball Dog Toy is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_14.png",
+      "gallery": [
+        "images/product_14.png",
+        "images/product_14.png",
+        "images/product_14.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 86.99,
+        "sale": 1437.49
+      }
+    },
+    {
+      "title": "Healthy Chew Dog Treats",
+      "category": {
+        "name": "Dog",
+        "slug": "dog",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 3.9,
+      "id": "119",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Healthy Chew Dog Treats",
+      "longDescription": "The Healthy Chew Dog Treats is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_15.png",
+      "gallery": [
+        "images/product_15.png",
+        "images/product_15.png",
+        "images/product_15.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1172.99,
+        "sale": 1423.49
+      }
+    },
+    {
+      "title": "Soft touch Dog Toy",
+      "category": {
+        "name": "Dog",
+        "slug": "dog",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 3.9,
+      "id": "120",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Soft touch Dog Toy",
+      "longDescription": "The Soft touch Dog Toy is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "thumbnailImage": "images/product_16.png",
+      "gallery": [
+        "images/product_16.png",
+        "images/product_16.png",
+        "images/product_16.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1172.99,
+        "sale": 1423.49
+      }
+    },
+    {
+      "title": "Snuggle Safari Lounger Dog Bed",
+      "category": {
+        "name": "Dog",
+        "slug": "dog",
+        "thumbnail": "images/category-03.png"
+      },
+      "review": 3.9,
+      "id": "121",
+      "stock": "In Stock",
+      "type": "Food",
+      "shortDescription": "High-quality fish product: Snuggle Safari Lounger Dog Bed",
+      "longDescription": "The Snuggle Safari Lounger Dog Bed is a trusted choice among fish owners. Designed for comfort, fun, and nutrition depending on product type.",
+      "quantity": 1,
+      "featured": false,
+      "hotest": true,
+      "thumbnailImage": "images/product_17.png",
+      "gallery": [
+        "images/product_17.png",
+        "images/product_17.png",
+        "images/product_17.png"
+      ],
+      "socialShare": {
+        "social": [
+          {
+            "title": "Facebook",
+            "icon": "images/facebook.png",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "title": "LinkedIn",
+            "icon": "images/linkedin.png",
+            "url": "https://www.linkedin.com"
+          },
+          {
+            "title": "Instagram",
+            "icon": "images/instagram1.png",
+            "url": "https://www.instagram.com"
+          },
+          {
+            "title": "Twitter",
+            "icon": "images/twitter1.png",
+            "url": "https://www.twitter.com"
+          }
+        ]
+      },
+      "price": {
+        "regular": 1172.99,
+        "sale": 1423.49
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/images/banner1.png",
+    "heading": "Everything Your Pet’s Heart Desires",
+    "description": "Curated collections made with love — because your pet is family.",
+    "buttonText": "SHOP COLLECTIONS",
+    "buttonLink": "#best-product"
+  },
+  {
+    "id": 2,
+    "image": "/images/banner2.png",
+    "heading": "Pamper Your Pooch With Premium Products",
+    "description": "Luxury treats, toys, and essentials your dog will adore.",
+    "buttonText": "SHOP COLLECTIONS",
+    "buttonLink": "#best-product"
+  }
+]

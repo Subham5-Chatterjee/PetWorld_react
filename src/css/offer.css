@@ -1,0 +1,154 @@
+.offerSec_one {
+    padding-bottom: 5rem;
+}
+
+.offerSec_one .offerText_one,
+.offerSec_one .offerText_three {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 4rem;
+}
+
+.offerSec_one .offerText_one p,
+.offerSec_one .offerText_three p {
+    font-size: 1.6rem;
+    margin-bottom: 0rem;
+    color: #ffffff;
+    line-height: 2rem;
+}
+
+.offerSec_one .offerText_one h3,
+.offerSec_one .offerText_three h3 {
+    font-size: 2.6rem;
+    margin-bottom: 0rem;
+    font-weight: 600;
+    line-height: 3rem;
+    padding: 1.2rem 0rem 1.5rem;
+    ;
+    color: #ffffff;
+}
+
+.offerSec_one .btnoffer {
+    max-width: 12.5rem;
+    width: 100%;
+    border-radius: 6px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #142535;
+    background-color: #ffffff;
+    border-radius: 4rem;
+    padding: 7px 0px;
+}
+
+.offerText_two {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 4rem;
+}
+
+.offerText_two p {
+    font-size: 1.6rem;
+    margin-bottom: 0rem;
+    color: #ffffff;
+    line-height: 2rem;
+}
+
+.offerText_two h3 {
+    font-size: 2.6rem;
+    margin-bottom: 0rem;
+    font-weight: 600;
+    line-height: 3rem;
+    padding: 1.2rem 0rem 1.5rem;
+    color: #ffffff;
+}
+
+.offerSec_two {
+    padding-top: 5rem;
+}
+
+.offerSec_two .offerText_one,
+.offerSec_two .offerText_two {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 5rem;
+}
+
+.offerSec_two .offerText_one p,
+.offerSec_two .offerText_two p {
+    font-size: 1.6rem;
+    margin-bottom: 0rem;
+    color: #ffffff;
+    line-height: 1;
+}
+
+.offerSec_two .offerText_one h3,
+.offerSec_two .offerText_two h3 {
+    font-size: 2.6rem;
+    margin-bottom: 0rem;
+    font-weight: 600;
+    line-height: 3rem;
+    padding: 1.5rem 0rem;
+    color: #ffffff;
+}
+
+.offerSec_two .btnoffer {
+    max-width: 15rem;
+    width: 100%;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #142535;
+    background-color: #ffffff;
+    border-radius: 4rem;
+    padding: 12px 0px;
+}
+/* special-offer-banner*/
+
+.special-offer-info h3 {
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: "Nunito", sans-serif;
+    line-height: 6.5rem;
+    margin-bottom: 4.5rem;
+}
+
+.special-offer-info .btn-offer {
+    padding: 1.4rem 0rem;
+    font-size: 1.8rem;
+    max-width: 20rem;
+    width: 100%;
+    background: #142535;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 4rem;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.special-offer-info .btn-shop {
+    padding: 1.4rem 0rem;
+    font-size: 1.8rem;
+    max-width: 20rem;
+    width: 100%;
+    border: 2px solid #142535;
+    color: #142535;
+    font-weight: 500;
+    border-radius: 4rem;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 1.8rem;
+}
+
+.special-offer-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}

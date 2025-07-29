@@ -1,0 +1,97 @@
+.footer .social-icons a {
+    font-size: 1.5rem;
+    margin-right: 15px;
+    color: #fff;
+}
+
+.footer_part {
+    padding: 4.5rem 0px 3rem;
+    border-bottom: 1px solid rgb(51 51 51 / 20%);
+}
+
+.footer .footer-bottom {
+    border-top: 1px solid #444;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    font-size: 1.4rem;
+}
+
+.footer-logo {
+    font-size: 2.4rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.pet-footer {
+    max-width: 33rem;
+    width: 100%;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    margin-top: 2.5rem;
+}
+
+.list-unstyled a {
+    font-size: 1.6rem;
+    color: #000000;
+    text-decoration: none;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.footer_part h6 {
+    padding-bottom: 2.5rem;
+    margin-bottom: 0px;
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+.social-icons .icon-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1rem;
+    transition: 0.3s;
+}
+
+.newsletter_info input[type="email"] {
+    background: #ffffff;
+    border: 1px solid #FDFDFD;
+    color: #fff;
+    border-radius: .9rem 0rem 0rem .9rem;
+    padding: 1rem 2rem;
+    max-width: 38rem;
+    width: 100%;
+    height: 60px;
+    margin-top: 1.8rem;
+    position: relative;
+}
+
+.newsletter_info input::placeholder {
+    color: #000;
+    font-size: 1.6rem;
+}
+
+.newsletter_info p {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 0rem;
+}
+
+.newsletter_info .submit_btn {
+    background-color: #142535;
+    color: #fff;
+    padding: 1.2rem 2rem;
+    border-radius: 0rem .9rem .9rem 0rem;
+    max-width: 11rem;
+    width: 100%;
+    height: 60px;
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-top: 1.8rem;
+}
+
+.copyText {
+    font-size: 1.8rem;
+    font-weight: 500;
+}

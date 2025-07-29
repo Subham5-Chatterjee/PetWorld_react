@@ -1,0 +1,90 @@
+.navbar-nav .nav-link {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #142535;
+    padding: 0rem;
+}
+header {
+    border-bottom: 2px solid rgb(51 51 51 / 20%);
+}
+.header_menu {
+    column-gap: 3rem;
+}
+
+.search-bar {
+    max-width: 25rem;
+    width: 100%;
+    position: relative;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    font-size: 1.7rem;
+}
+
+.icon-btn a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.cart-badge {
+    position: absolute;
+    top: -1.2rem;
+    right: 2px;
+    font-size: 1.2rem;
+}
+
+/* === Search ===  */
+.searchMain {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    z-index: 100;
+}
+.searchWrap {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem 1rem;
+    border: 1px solid var(--fv-primary);
+    border-radius: 5px;
+}
+.searchWrap input {
+    font-size: 1.6rem;
+    padding: 1rem;
+    border-color: var(--fv-primary);
+}
+.searchWrap ul {
+    padding: 0;
+    margin: 0;
+}
+ 
+.searchWrap ul li {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.searchWrap ul li .searchMedia {
+    width: 70px;
+}
+.searchWrap ul li .searchContent {
+    width: calc(100% - 80px);
+    margin-left: 1rem;
+}
+.crossSearch {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.crossSearch .fa {
+    font-size: 1.7rem;
+    color: var(--fv-primary);
+}
+/* === Search ===  */

@@ -1,0 +1,159 @@
+.billing_details {
+  background: #f1fcfc;
+  padding: 5rem 0rem;
+}
+.billing_details_info .form-group {
+  padding-top: 1.6rem;
+}
+.billing_details_info h4 {
+  font-size: 3.6rem;
+  font-weight: 500;
+  color: #142535;
+}
+
+.billing_details_info label {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.billing_details_info label sup {
+  color: red;
+}
+
+.billing_details_info .form-control {
+  height: 4.8rem;
+  border: 1px solid #ebebeb;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  background: #fbfbfb;
+}
+
+.payment_details_info {
+  background-color: #fff;
+  padding: 2rem;
+  border: 1px solid #0000002d;
+  border-radius: 5px;
+}
+
+.payment_details_info .form-check {
+  background: #fbfbfb;
+  display: flex;
+  align-items: center;
+  border: 1px solid #ebebeb;
+  border-radius: 5px;
+  padding: 5px 0px;
+  height: 4.8rem;
+}
+
+.payment_details_info .form-check-label {
+  max-width: 600px;
+  width: 100%;
+  color: #555555;
+  font-size: 1.6rem;
+}
+
+.form-check .form-check-input {
+  margin-left: 1rem;
+  width: 2rem;
+  height: 2rem;
+}
+
+.form-section {
+  padding: 2rem;
+  background-color: #fff;
+  border: 1px solid #0000002d;
+  border-radius: 5px;
+}
+
+.order-summary {
+  background-color: #fff;
+  padding: 2rem;
+  border: 1px solid #0000002d;
+  border-radius: 5px;
+}
+
+.order-summary h5 {
+  font-size: 2.2rem;
+}
+
+.total-price {
+  color: #142535;
+  font-weight: bold;
+}
+
+.form-check-input:checked {
+  background-color: #000;
+  border-color: #000;
+}
+
+.p-details p {
+  max-width: 325px;
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #9f9f9f;
+  font-size: 1.6rem;
+}
+.p-details span {
+  font-size: 1.6rem;
+}
+.sub-details {
+  font-size: 1.8rem;
+}
+
+.shipping_info {
+  font-size: 1.8rem;
+}
+
+.total_value {
+  font-size: 1.8rem;
+}
+
+.policy_info {
+  font-size: 1.6rem;
+}
+
+.checkout_order_btn {
+  font-size: 1.8rem;
+  color: #ffffff;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  line-height: 1;
+  background-color: #142535;
+  width: 100%;
+}
+.form-control:focus {
+  box-shadow: 0 0 0 0.25rem rgb(20 37 53 / 25%);
+}
+@media (max-width: 1199px) {
+  .p-details p {
+    max-width: 210px;
+  }
+}
+@media (max-width: 767px) {
+  .billing_details_info h4 {
+    font-size: 2.4rem;
+  }
+  .p-details p {
+    max-width: 180px;
+  }
+  .billing_details {
+    padding: 2rem 0rem;
+  }
+  .billing_details_info .form-control {
+    font-size: 1.4rem;
+  }
+  .billing_details_info label {
+    font-size: 1.5rem;
+  }
+  .policy_info {
+    font-size: 1.4rem;
+  }
+  .sub-details,
+  .shipping_info {
+    font-size: 1.6rem;
+  }
+}

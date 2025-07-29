@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "authorName": "John Doe",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Verified Buyer",
+    "rating": 5,
+    "comment": "Excellent product! I noticed results with in a few days. Highly satisfied with quality."
+  },
+  {
+    "id": 2,
+    "authorName": "Jane Smith",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Health Enthusiast",
+    "rating": 4,
+    "comment": "Very good quality and fast shipping. I felt more energetic after using it for a week."
+  },
+  {
+    "id": 3,
+    "authorName": "Mike Johnson",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "CBD User",
+    "rating": 4.5,
+    "comment": "The flavor is nice and it helps me relax after a stressful day. Will order again!"
+  },
+  {
+    "id": 4,
+    "authorName": "Emily Clark",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Fitness Coach",
+    "rating": 5,
+    "comment": "Top-notch ingredients and it really works! Recommended it to my friends."
+  },
+  {
+    "id": 5,
+    "authorName": "David Lee",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Nutrition Expert",
+    "rating": 4.8,
+    "comment": "A clean, trustworthy supplement. Love that it's organic and lab-tested."
+  },
+  {
+    "id": 6,
+    "authorName": "Sophia Brown",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Wellness Blogger",
+    "rating": 5,
+    "comment": "I’ve tried many CBD products—this one stands out for its purity and fast effect."
+  },
+  {
+    "id": 7,
+    "authorName": "Chris Evans",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "First-Time User",
+    "rating": 4,
+    "comment": "I was skeptical at first, but now I'm convinced. Helps with sleep and anxiety."
+  },
+  {
+    "id": 8,
+    "authorName": "Natalie Green",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Yoga Instructor",
+    "rating": 4.9,
+    "comment": "This product complements my wellness routine perfectly. A must-have!"
+  },
+   {
+    "id": 9,
+    "authorName": "Natalie Green",
+    "authorImage": "https://i.pravatar.cc/300",
+    "authorDesignation": "Yoga Instructor",
+    "rating": 4.9,
+    "comment": "This product complements my wellness routine perfectly. A must-have!"
+  }
+]

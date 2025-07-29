@@ -1,0 +1,161 @@
+.thank_you_info {
+  background: #f1fcfc;
+  padding: 5rem 0rem;
+}
+
+.out-section h5 {
+  font-size: 3.5rem;
+}
+
+.out-section p {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+p.order_id {
+  font-size: 1.4rem;
+  color: #777777;
+  margin-bottom: 5px;
+}
+
+p.customer_name {
+  font-size: 2.6rem;
+  font-weight: 700;
+}
+
+.order_details {
+  padding: 2rem;
+  border: 2px solid rgb(51 51 51 / 20%);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+  background: #fff;
+}
+
+h3.order_det_heading {
+  font-weight: 700;
+  font-size: 2.2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.ship_address_det h4,
+.ship_method_det h4,
+.bill_address_det h4,
+.payment_method_det h4 {
+  font-weight: 600;
+  font-size: 2rem;
+  color: #142535;
+}
+
+.ship_address_det p,
+.ship_method_det p,
+.bill_address_det p,
+.payment_method_det p {
+  font-size: 1.6rem;
+  color: #777777;
+  line-height: 2.8rem;
+}
+
+.shopping_btn {
+  width: 22rem;
+  height: 4.5rem;
+  font-size: 1.6rem;
+  border-radius: 7px;
+  background: #142535;
+  border: none;
+}
+
+.help_link a {
+  color: #142535 !important;
+}
+
+/*p.help_link::before {
+    content: "\f059";
+    font-family: 'FontAwesome';
+    font-size: 2.4rem;
+    color: #696969;
+    margin-right: 10px;
+    vertical-align: middle;
+}*/
+
+i.fa.fa-question-circle {
+  font-size: 25px;
+  color: #696969;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+p.help_link {
+  font-size: 14px;
+
+  color: #696969;
+  font-weight: bold;
+}
+
+@media (max-width: 991px) {
+  .light-bg::after {
+    content: " ";
+    width: 5000px;
+    position: absolute;
+    right: 100%;
+    background: #f5f8ff;
+    height: 100%;
+    z-index: 2;
+    top: 0;
+  }
+
+  .light-bg {
+    border: transparent !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .chk_prod {
+    width: 64px;
+    height: 64px;
+  }
+
+  .chk_prod_details p,
+  .chk_prod_price p {
+    font-size: 14px;
+  }
+
+  p.autoship {
+    font-size: 12px;
+
+    text-transform: capitalize;
+  }
+
+  button.btn.checkout_btn,
+  .shipping_btn {
+    width: 100%;
+  }
+
+  button.btn.checkout_btn::after,
+  .shipping_btn::after {
+    float: none;
+  }
+
+  ol.breadcrumb.m-0 {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 450px) {
+  .payment_br {
+    display: none;
+  }
+
+  i.fa.fa-question-circle {
+    vertical-align: top;
+  }
+
+  p.help_link a {
+    display: block;
+  }
+
+  .shopping_btn {
+    font-size: 12px;
+    width: 100%;
+  }
+}

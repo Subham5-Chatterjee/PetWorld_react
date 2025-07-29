@@ -1,0 +1,705 @@
+@media (max-width: 1740px) {
+  .hero-content {
+    max-width: 70rem;
+  }
+
+  .hero-content h1 {
+    font-size: 7rem;
+    line-height: 8rem;
+  }
+
+  .offerSec_one .offerText_one,
+  .offerSec_one .offerText_three {
+    right: 3rem;
+  }
+
+  .offerText_two {
+    left: 3rem;
+  }
+
+  .special-offer-info h3 {
+    font-size: 4rem;
+    line-height: 5.5rem;
+    margin-bottom: 3.5rem;
+  }
+
+  .newsletter_info input[type="email"] {
+    max-width: 28rem;
+  }
+
+  .product-list-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .best-selling-product .single-product,
+  .product-listing .single-product {
+    padding: 1.5rem;
+  }
+
+  .best-selling-product .product-details,
+  .product-listing .product-details {
+    padding: 0px 1rem;
+  }
+
+  .product-listing .single-product .price span {
+    font-size: 1.8rem;
+  }
+
+  .single-product .price span {
+    font-size: 1.8rem;
+  }
+
+  .product-details h6 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1499px) {
+  .categories-part ul {
+    column-gap: 4rem;
+  }
+}
+
+@media (max-width: 1399px) {
+  .hero-content h1 {
+    font-size: 6rem;
+    line-height: 7rem;
+  }
+
+  .hero-content {
+    max-width: 60rem;
+  }
+
+  .hero-content p {
+    margin: 2.5rem 0;
+  }
+
+  /*
+    .categories-part ul {
+        column-gap: 2.5rem;
+    }
+*/
+
+  .cus-container {
+    column-gap: 2.5rem;
+  }
+
+  .offerSec_one .offerText_one h3,
+  .offerSec_one .offerText_three h3 {
+    font-size: 2.2rem;
+  }
+
+  .offerText_two h3 {
+    font-size: 2.2rem;
+  }
+
+  .offerSec_one .offerText_one,
+  .offerSec_one .offerText_three {
+    right: 2rem;
+  }
+
+  .offerText_two {
+    left: 2rem;
+  }
+
+  .single-product {
+    padding: 1.5rem;
+  }
+
+  .offerSec_two .offerText_one h3,
+  .offerSec_two .offerText_two h3 {
+    font-size: 2.4rem;
+  }
+
+  .special-offer-info h3 {
+    font-size: 3.5rem;
+    line-height: 4.5rem;
+    margin-bottom: 3rem;
+  }
+
+  .best-selling-product .product-details {
+    padding: 0rem;
+  }
+
+  .single-product .price span {
+    font-size: 1.6rem;
+  }
+
+  .product_btn a,
+  .product_btn button {
+    padding: 1rem 0rem;
+  }
+
+  .footer_part h6 {
+    padding-bottom: 2.2rem;
+    font-size: 2rem;
+  }
+
+  .product_details .price-wrapper {
+    width: 46%;
+  }
+
+  .product_details .btn-wrapper {
+    width: 53%;
+  }
+  .best-selling-product .swiper {
+    padding-bottom: 4rem;
+  }
+}
+
+@media (max-width: 1199px) {
+  .hero-content {
+    max-width: 50rem;
+  }
+
+  .hero-content h1 {
+    font-size: 5rem;
+    line-height: 6rem;
+  }
+
+  .hero-buttons a {
+    padding: 1.4rem 0px;
+    font-size: 1.6rem;
+    max-width: 22.5rem;
+  }
+
+  .hero-content p {
+    margin: 2rem 0;
+  }
+
+  .mySwipe {
+    padding-bottom: 4rem;
+  }
+
+  .mySwipe .swiper-pagination {
+    bottom: 0px !important;
+  }
+
+  .categories-part {
+    padding: 3.5rem 0rem;
+  }
+
+  .categories-part .category-info {
+    overflow: hidden;
+  }
+
+  .categories-part h3,
+  .hot-selling-product h3,
+  .best-selling-product-product h3 {
+    max-width: 50rem;
+  }
+
+  .categories-part h3,
+  .hot-selling-product h3,
+  .best-selling-product h3 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+  }
+
+  .offerSec_one .offerText_one h3,
+  .offerSec_one .offerText_three h3 {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    padding: 1rem 0rem 1rem;
+  }
+
+  .offerText_two h3 {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+    padding: 1rem 0rem 1rem;
+  }
+
+  /*
+    .categories-part ul {
+        column-gap: 1.5rem;
+    }
+*/
+
+  .cus-container {
+    column-gap: 1.5rem;
+  }
+
+  .product-title {
+    font-size: 3rem;
+    line-height: 5rem;
+  }
+
+  .product-details {
+    padding: 0rem;
+  }
+
+  .product-details h6 {
+    font-size: 2rem;
+    line-height: 2rem;
+    margin: 1.2rem 0px;
+  }
+
+  .product-revew .fa-star {
+    font-size: 1.2rem;
+  }
+
+  .product_btn a {
+    padding: 1rem 0rem;
+  }
+
+  .testimonial__card p {
+    font-size: 1.6rem;
+    line-height: 2.3rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .testimonial__card h4 {
+    font-size: 1.4rem;
+  }
+
+  .testimonial__card {
+    padding: 2rem;
+  }
+
+  .special-offer-info h3 {
+    font-size: 3rem;
+    line-height: 4rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .product_details .price-wrapper {
+    width: 54%;
+  }
+
+  .product_details .btn-wrapper {
+    width: 46%;
+  }
+
+  .offerSec_one {
+    padding-bottom: 3.5rem;
+  }
+
+  .hot-selling-product {
+    padding-bottom: 4rem;
+  }
+
+  .review_part {
+    padding: 4rem 0rem 2.5rem;
+  }
+  .product-list-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-toggler {
+    border: 2px solid #142535;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .hero-content {
+    max-width: 40rem;
+  }
+
+  .product-list-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .header-icon {
+    position: absolute;
+    right: 3rem;
+    width: 9rem;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    top: 2.5rem;
+  }
+
+  header .navbar-collapse .navbar-nav {
+    margin-top: 1.5rem !important;
+    /*        border-top: 1px solid #c1c1c1;*/
+  }
+
+  header .navbar-collapse .navbar-nav .nav-link {
+    border-bottom: 1px solid #c1c1c1;
+    padding: 0.5rem 0rem;
+  }
+
+  .hero-content h1 {
+    font-size: 4rem;
+    line-height: 5rem;
+  }
+
+  .hero-content p {
+    margin: 1.5rem 0;
+  }
+
+  .hero-buttons a {
+    padding: 1.2rem 0px;
+    font-size: 1.6rem;
+    max-width: 20.5rem;
+  }
+
+  .categories-part {
+    padding: 3rem 0rem;
+  }
+
+  .hot-selling-product .cus-container {
+    display: grid !important;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .single-product .price span {
+    font-size: 2.2rem;
+  }
+
+  .product-details h6 {
+    font-size: 1.8rem;
+  }
+
+  .product-revew .fa-star {
+    font-size: 1.8rem;
+  }
+
+  .product-revew span {
+    font-size: 1.8rem;
+  }
+
+  .hot-selling-product .single-product {
+    margin-bottom: 2.5rem;
+  }
+
+  .hot-selling-product {
+    padding-bottom: 1rem;
+  }
+
+  .best-selling-product .single-product,
+  .product-listing .single-product {
+    padding: 1rem;
+  }
+
+  .best-selling-product .product-revew .fa-star {
+    font-size: 1.4rem;
+  }
+
+  .best-selling-product .product-revew span {
+    font-size: 1.6rem;
+  }
+
+  .best-selling-product .single-product .price span,
+  .product-listing .single-product .price span {
+    font-size: 1.8rem;
+  }
+
+  .best-selling-product .product-details h6,
+  .product-listing .product-details h6 {
+    margin: 1rem 0px;
+  }
+
+  .offerSec_one .row {
+    grid-row-gap: 2rem;
+  }
+
+  .offerSec_two .offerText_one h3,
+  .offerSec_two .offerText_two h3 {
+    font-size: 1.8rem;
+    line-height: 2rem;
+    padding: 1rem 0rem;
+  }
+
+  .offerSec_two .offerText_one,
+  .offerSec_two .offerText_two {
+    left: 2rem;
+  }
+
+  .offerSec_two .btnoffer {
+    max-width: 12rem;
+    padding: 7px 0px;
+  }
+
+  .review_part {
+    padding: 3rem 0rem;
+  }
+
+  .review_part h3 {
+    font-size: 3rem;
+  }
+
+  .review_part h6 {
+    padding: 1.6rem 0rem 2rem;
+  }
+
+  .special-offer-info h3 {
+    font-size: 2.4rem;
+    line-height: 3rem;
+    margin-bottom: 2rem;
+  }
+
+  .special-offer-info .btn-offer,
+  .special-offer-info .btn-shop {
+    padding: 1.2rem 0rem;
+    font-size: 1.4rem;
+    max-width: 15rem;
+  }
+
+  .offerSec_one {
+    padding-bottom: 3rem;
+  }
+
+  .offerSec_two {
+    padding-top: 3rem;
+  }
+
+  .product_details .btn-wrapper {
+    width: 100%;
+    margin-top: 2rem;
+  }
+
+  .product_details .price-wrapper {
+    width: 99%;
+  }
+  .filter-wrapper h6 {
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+  .filter-wrapper {
+    margin-top: 2rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+  }
+  .filter-wrapper span {
+    font-size: 1.7rem;
+  }
+  .searchMain {
+    width: 75%;
+  }
+}
+@media (max-width: 767px) {
+  .site-logo {
+    width: 70%;
+  }
+
+  section .container,
+  footer .container {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+
+  .product-list-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .hero-content {
+    max-width: 35rem;
+    margin-right: auto;
+  }
+
+  .hero-slide img,
+  .special-offer img {
+    min-height: 300px;
+    object-fit: cover;
+  }
+
+  .hero-content h1 {
+    font-size: 3.5rem;
+    line-height: 4rem;
+  }
+
+  .hero-content p {
+    font-size: 1.8rem;
+  }
+
+  .categories-part ul li {
+    max-width: 100%;
+  }
+
+  .hot-selling-product .single-product {
+    padding: 1rem;
+  }
+
+  .offerSec_one .offerText_one h3,
+  .offerSec_one .offerText_three h3,
+  .offerText_two h3 {
+    font-size: 2.8rem;
+    line-height: 3.5rem;
+    padding: 1rem 0rem 1rem;
+  }
+
+  .offerSec_one .offerText_one p,
+  .offerSec_one .offerText_three p,
+  .offerText_two p {
+    font-size: 2rem;
+    font-size: 2rem;
+  }
+
+  .offerSec_one .btnoffer {
+    max-width: 14.5rem;
+  }
+
+  .offerSec_one .offerText_one,
+  .offerSec_one .offerText_three {
+    right: 1rem;
+  }
+
+  .offerSec_one .offerText_one,
+  .offerSec_one .offerText_three {
+    right: 3rem;
+  }
+
+  .offerSec_two .offerText_one h3,
+  .offerSec_two .offerText_two h3 {
+    font-size: 2.8rem;
+    line-height: 3.5rem;
+  }
+
+  .offerSec_two .offerText_one p,
+  .offerSec_two .offerText_two p {
+    font-size: 2rem;
+  }
+
+  .offerSec_two .btnoffer {
+    max-width: 14rem;
+  }
+
+  .offerSec_two .row {
+    row-gap: 2rem;
+  }
+
+  .testimonial__card {
+    padding: 1rem;
+  }
+
+  .testimonial__card h4 {
+    font-size: 1.5rem;
+  }
+
+  .pet-footer {
+    max-width: 100%;
+  }
+
+  .newsletter_info .submit_btn {
+    max-width: 13rem;
+  }
+
+  .newsletter_info input[type="email"] {
+    max-width: 40rem;
+  }
+
+  .newsletter_info {
+    margin-bottom: 2.5rem;
+  }
+
+  .newsletter_info p {
+    font-size: 1.6rem;
+  }
+
+  .widget-tabs {
+    border: 1px solid #142535;
+    padding: 1.5rem;
+  }
+
+  .widget-tabs .widget-menu-tab .nav-item {
+    padding: 1rem 0;
+  }
+
+  .widget-tabs .widget-menu-tab .nav-item:not(.default) {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+
+  .product_details-info {
+    margin-top: 2rem;
+  }
+  .revw_sec {
+    padding-bottom: 0rem;
+  }
+  .best-selling-product .swiper {
+    padding-bottom: 1rem;
+  }
+  .special-offer {
+    display: flex;
+    flex-direction: column;
+    background-color: #dbf4f5;
+    padding-top: 50px;
+  }
+  .special-offer .container-fluid {
+    order: 2;
+  }
+
+  .special-offer-container {
+    position: relative;
+    top: inherit;
+    transform: inherit;
+    left: inherit;
+    bottom: inherit;
+    order: 1;
+  }
+  .newsletter_info input[type="email"] {
+    border-radius: 0.9rem 0.9rem 0.9rem 0.9rem;
+  }
+  .newsletter_info .submit_btn {
+    position: absolute;
+    right: 0;
+  }
+  .filter-wrap {
+    display: flex;
+    gap: 1rem;
+  }
+  .filter-wrapper {
+    font-size: 1.4rem;
+  }
+  .header-icon {
+    top: 1.5rem;
+  }
+  .searchMain {
+    width: 95%;
+  }
+}
+
+@media (max-width: 559px) {
+  .hero-content h1 {
+    font-size: 3rem;
+  }
+
+  .hero-content {
+    max-width: 30rem;
+    margin-right: auto;
+  }
+
+  .hero-content p {
+    padding-right: 0rem;
+  }
+
+  .hot-selling-product .cus-container {
+    display: grid !important;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .offerSec_one .offerText_one h3,
+  .offerSec_one .offerText_three h3,
+  .offerText_two h3 {
+    font-size: 2.2rem;
+    line-height: 2.5rem;
+    padding: 1rem 0rem 1rem;
+  }
+
+  .offerSec_two .offerText_one p,
+  .offerSec_two .offerText_two p {
+    font-size: 1.6rem;
+  }
+
+  .offerSec_two .offerText_one h3,
+  .offerSec_two .offerText_two h3 {
+    font-size: 2.2rem;
+    line-height: 2.5rem;
+  }
+
+  .review_part h3 {
+    font-size: 2.5rem;
+  }
+
+  .review_part h6 {
+    padding: 1.4rem 0rem 1.4rem;
+    font-size: 1.7rem;
+  }
+}
